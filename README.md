@@ -4,4 +4,4 @@
 
 Lorem
 
-doi.org/10.5281/zenodo.4010656
+[![DOI](https://zenodo.org/badge/292007734.svg)](https://zenodo.org/badge/latestdoi/292007734)
